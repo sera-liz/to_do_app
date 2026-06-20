@@ -1,17 +1,26 @@
-# to_do_app
+# To-Do App
 
-A new Flutter project.
+A simple Flutter To-Do application that helps users manage daily tasks efficiently. Users can add new tasks, mark tasks as completed using checkboxes, and delete tasks when they are no longer needed. The app demonstrates Flutter fundamentals such as StatefulWidget, ListView.builder, setState(), AlertDialog, TextField, and CRUD operations on a task list.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Add new tasks
+* Mark tasks as completed
+* Strike-through completed tasks
+* Delete tasks
+* Simple and responsive UI
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Learning Outcomes
+
+* StatefulWidget and state management
+* ListView.builder
+* TextEditingController
+* AlertDialog
+* setState()
+* CRUD operations
+* Flutter UI components
