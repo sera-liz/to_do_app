@@ -1,6 +1,7 @@
 import '../models/task.dart';
 List<Task> tasks = [
-  Task (title:'study flutter'),
-  Task (title:'complete assignement'),
-  Task(title:'go for walk'),
+  Task (title:'HomeWork'),
+  Task (title:'Complete assignement'),
+  Task(title:'Go for walk'),
+  Task(title:'Wash plates'),
 ];
